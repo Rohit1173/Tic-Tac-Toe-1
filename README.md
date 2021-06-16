@@ -15,7 +15,8 @@ A turn based 2 player tic-tac-toe game.
 ---
 
 <p float="left">
-  <img src="assets/ss1.jpg" width="280" margin-right="5px" />
+  <img src="assets/ss0.jpg" width="280" margin-right="5px" />
+  <img src="assets/ss1.jpg" width="280" />
   <img src="assets/ss2.jpg" width="280" /> 
   <img src="assets/ss3.jpg" width="280" />
 </p>
